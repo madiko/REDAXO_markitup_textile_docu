@@ -1,6 +1,7 @@
 # markitUp! - textile
 Cheat Sheet für markitUp! textile (REDAXO AddOn)
 
+<a name="top"></a>
 Hier findest Du die snippets für die Auszeichnungssprache textile - jeweils mit Ausgabe (= Vorschau) und dem einzugebendem Code:
 
 - [Überschriften](#ueberschriften)
@@ -359,15 +360,13 @@ Willst Du Dein eigenes Script schreiben, empfiehlt sich ein Anfang mit der Vorla
 
 ### Attribute für den Text in den einzelnen Tabellen-Zellen
 
-
-| Ausgabe              | Eingabe          |
-| -------------------- | ---------------- |
-| links                | `|<. Dein Text`  |
-| rechts               | `|>. Dein Text`  | 
-| zentriert            | `|=. Dein Text`  | 
-| justify              | `|<>. Dein Text` | 
-| Zeilen-Anfang (top)  | `|^. Dein Text`  | 
-| Zeilen-Ende (bottom) | `|~. Dein Text`  | 
+Ausgabe: Eingabe  
+links: `|<. Dein Text`  
+rechts: `|>. Dein Text`   
+zentriert: `|=. Dein Text`  
+justify: `|<>. Dein Text`  
+Zeilen-Anfang (top): `|^. Dein Text`  
+Zeilen-Ende (bottom): `|~. Dein Text`  
 
 
 &uarr; [zurück zur Übersicht](#top)
