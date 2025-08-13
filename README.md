@@ -24,9 +24,9 @@ Hier findest Du die snippets für die Auszeichnungssprache textile - jeweils mit
 
 ---
 
-Quelle für diese Anleitung und viele weitere Tipps & Tricks:
-[www.rexdev.de/cheatsheets/textile](http://rexdev.de/cheatsheets/textile.html)
-
+Quellen für diese Anleitung und viele weitere Tipps & Tricks:
+- [www.rexdev.de/cheatsheets/textile](http://rexdev.de/cheatsheets/textile.html)
+- [www.textile-lang.com](https://textile-lang.com/) // [www.github.com/textile/php-textile](https://github.com/textile/php-textile)
 
 
 <a name="ueberschriften"></a>
